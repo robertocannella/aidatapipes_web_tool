@@ -1,1 +1,3 @@
 /.vscode
+/polls/migrations/
+/controller/migrations/
